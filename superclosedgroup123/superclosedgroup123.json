@@ -1,0 +1,2333 @@
+{
+    "response": {
+        "count": 66,
+        "items": [
+            {
+                "id": 125,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631294570,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Тест 2",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294570,
+                            "id": 457239122,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "9e4409829fe4ec4fbc",
+                            "height": 330,
+                            "photo_130": "https://sun9-67.userapi.com/impg/wo0-mpeubNc3HNOg64RRyponMXP0FJGl6DDsbA/wPBmASWXC6E.jpg?size=130x130&quality=96&sign=bd67df3bd5f4fd1037e17c16029026f5&c_uniq_tag=K1El1BZUHrCMIzqk787QlKBD-qVabK8y98D1GNUBllc&type=album",
+                            "photo_604": "https://sun9-67.userapi.com/impg/wo0-mpeubNc3HNOg64RRyponMXP0FJGl6DDsbA/wPBmASWXC6E.jpg?size=330x330&quality=96&sign=c65fcefc1592ab4838503000e9bd55b2&c_uniq_tag=94kg2rYyVSsRjpmkrqF0oLB5YyvYoR7FD337QK4Ichs&type=album",
+                            "photo_75": "https://sun9-67.userapi.com/impg/wo0-mpeubNc3HNOg64RRyponMXP0FJGl6DDsbA/wPBmASWXC6E.jpg?size=75x75&quality=96&sign=cb8117d1dc3393cfdffa1289d2f474a7&c_uniq_tag=3ozeasqg7V4ZNmaYQhfV9MSP4Moh-NrjezgbUs-2gz4&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294570,
+                            "id": 457239123,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "60e2a3271d232a8c1f",
+                            "height": 330,
+                            "photo_130": "https://sun9-55.userapi.com/impg/zXUbXXIABAl_C1qmuYkzg1ZYNuuvlU4imoINiQ/T6WEX8x8Tcw.jpg?size=130x130&quality=96&sign=66db09af9759d73b6b8a9871f4538ee8&c_uniq_tag=n--EJHVk1kzb7wEejkOSZ2hW0r0RjSh8790MhMzBfhk&type=album",
+                            "photo_604": "https://sun9-55.userapi.com/impg/zXUbXXIABAl_C1qmuYkzg1ZYNuuvlU4imoINiQ/T6WEX8x8Tcw.jpg?size=330x330&quality=96&sign=dc6dcd3fec93325192fc475d13eba51a&c_uniq_tag=gKxcME-r-fgkSsMZX5Q8L2AghsQIV_iMX3xrcG2Ga00&type=album",
+                            "photo_75": "https://sun9-55.userapi.com/impg/zXUbXXIABAl_C1qmuYkzg1ZYNuuvlU4imoINiQ/T6WEX8x8Tcw.jpg?size=75x75&quality=96&sign=ae55015014528fa21a371834a74c291a&c_uniq_tag=eyygt3HR7b3A9f52DmHCoqQtl-8ZJSbaLC56p0fq1PQ&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "ZnR_zdepqGuPTlH6V9WAq_zy4Ycm"
+            },
+            {
+                "id": 124,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631294553,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Тест",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294552,
+                            "id": 457239118,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "e63f43490485804ea8",
+                            "height": 330,
+                            "photo_130": "https://sun9-55.userapi.com/impg/WkE1SzICwIx31EztEQlWsFKOoGAj8gkSSHjnUw/XdvKN-PCRkg.jpg?size=130x130&quality=96&sign=cb8328b5f0bd988f1c4cab1d3c5c8b46&c_uniq_tag=A6cB86ljnP7ascVTQRw1g2ARdVrhVegEWk_G09j7Tp8&type=album",
+                            "photo_604": "https://sun9-55.userapi.com/impg/WkE1SzICwIx31EztEQlWsFKOoGAj8gkSSHjnUw/XdvKN-PCRkg.jpg?size=330x330&quality=96&sign=45a695f29814b26ca4dd0ee9183a063d&c_uniq_tag=X5KyXrUVC_MUlZyGP-mYjLeJi2SnOf398eL1T6KNbtg&type=album",
+                            "photo_75": "https://sun9-55.userapi.com/impg/WkE1SzICwIx31EztEQlWsFKOoGAj8gkSSHjnUw/XdvKN-PCRkg.jpg?size=75x75&quality=96&sign=7008a52ca1a4a1772dc49970e7180900&c_uniq_tag=8Du8FgzJebPnjcUg-CBmYQPTQqgTgBgIToIkbNcNhQs&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294552,
+                            "id": 457239119,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "0d4f6868c5ca05d0f6",
+                            "height": 330,
+                            "photo_130": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=130x130&quality=96&sign=09f2576d336e29bea7840d9a0960b474&c_uniq_tag=rKM8rK93DXsgo-GJfF9QxauXj-TpG6kKSby8NJ1_d1Y&type=album",
+                            "photo_604": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=330x330&quality=96&sign=a0c7fb9d3b26a0d65f9181d6a242a3a3&c_uniq_tag=8CPAblfOLWzT2W3Kl2wyIvOqdyunuF0yRtjVz_1id24&type=album",
+                            "photo_75": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=75x75&quality=96&sign=e15cb7a3a3798e96758d273837a3a2d9&c_uniq_tag=2YANbP1wZtKBdAxX3WnmRn2McTK59vK84CnqHVz5wNE&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294552,
+                            "id": 457239120,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "32dfd5304d56b73d54",
+                            "height": 330,
+                            "photo_130": "https://sun9-61.userapi.com/impg/eHzgl9-TkX0n4gURzgJM7773OO8-xR6MBoYlVA/58DkSdPBywQ.jpg?size=130x130&quality=96&sign=273c03966840679c6d16f29b70d69015&c_uniq_tag=wTbOIg9rL4Hf_7g0iSh8U75qn8fk7bw4xMwdb6UWokE&type=album",
+                            "photo_604": "https://sun9-61.userapi.com/impg/eHzgl9-TkX0n4gURzgJM7773OO8-xR6MBoYlVA/58DkSdPBywQ.jpg?size=330x330&quality=96&sign=e2529fb2d788ec585bdb9bd0431b37fe&c_uniq_tag=Ms8-i71Nme4088moLdL42AaIzB_1c0ZUqD7KUkZOSZw&type=album",
+                            "photo_75": "https://sun9-61.userapi.com/impg/eHzgl9-TkX0n4gURzgJM7773OO8-xR6MBoYlVA/58DkSdPBywQ.jpg?size=75x75&quality=96&sign=dbd71ff94538b9637359e4066fda75be&c_uniq_tag=R0elz0TBVyLIWNs13S2JT06lXIZB0JEcQxti-BoVceU&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294552,
+                            "id": 457239121,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "1c96bb0d98a9508546",
+                            "height": 330,
+                            "photo_130": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=130x130&quality=96&sign=18a82e3d8ca81dded5d88f9b281635a1&c_uniq_tag=nHyHzOg-7PFVg4MCx-EF1rFXpbGXWLRFLmyY7-te52A&type=album",
+                            "photo_604": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=330x330&quality=96&sign=3913eaa2104061ec4e947d406e636789&c_uniq_tag=geiOTGz6xq9i6uGuqWbgsimDVD3B0kZn6Q7Y6N4ukJE&type=album",
+                            "photo_75": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=75x75&quality=96&sign=3db8e27b13cb8e2deb08fc63422dcd25&c_uniq_tag=ZdnwHbmpN1M8qTDZSLEfFStEVDIIqlq_R7B1jT5VFms&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "QIlx9164Iu_TlMlbsHkZvLym4rPE"
+            },
+            {
+                "id": 123,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631294427,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Б",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294426,
+                            "id": 457239114,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "fedfd70d57b7190629",
+                            "height": 330,
+                            "photo_130": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=130x130&quality=96&sign=09f2576d336e29bea7840d9a0960b474&c_uniq_tag=rKM8rK93DXsgo-GJfF9QxauXj-TpG6kKSby8NJ1_d1Y&type=album",
+                            "photo_604": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=330x330&quality=96&sign=a0c7fb9d3b26a0d65f9181d6a242a3a3&c_uniq_tag=8CPAblfOLWzT2W3Kl2wyIvOqdyunuF0yRtjVz_1id24&type=album",
+                            "photo_75": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=75x75&quality=96&sign=e15cb7a3a3798e96758d273837a3a2d9&c_uniq_tag=2YANbP1wZtKBdAxX3WnmRn2McTK59vK84CnqHVz5wNE&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294426,
+                            "id": 457239115,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "6653f23b00df2630bd",
+                            "height": 330,
+                            "photo_130": "https://sun9-61.userapi.com/impg/eHzgl9-TkX0n4gURzgJM7773OO8-xR6MBoYlVA/58DkSdPBywQ.jpg?size=130x130&quality=96&sign=273c03966840679c6d16f29b70d69015&c_uniq_tag=wTbOIg9rL4Hf_7g0iSh8U75qn8fk7bw4xMwdb6UWokE&type=album",
+                            "photo_604": "https://sun9-61.userapi.com/impg/eHzgl9-TkX0n4gURzgJM7773OO8-xR6MBoYlVA/58DkSdPBywQ.jpg?size=330x330&quality=96&sign=e2529fb2d788ec585bdb9bd0431b37fe&c_uniq_tag=Ms8-i71Nme4088moLdL42AaIzB_1c0ZUqD7KUkZOSZw&type=album",
+                            "photo_75": "https://sun9-61.userapi.com/impg/eHzgl9-TkX0n4gURzgJM7773OO8-xR6MBoYlVA/58DkSdPBywQ.jpg?size=75x75&quality=96&sign=dbd71ff94538b9637359e4066fda75be&c_uniq_tag=R0elz0TBVyLIWNs13S2JT06lXIZB0JEcQxti-BoVceU&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "v9nbv5X3B51-nBZT6Ug0F06MQs9e"
+            },
+            {
+                "id": 122,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631294418,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "А",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294418,
+                            "id": 457239111,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "10d56efdef0be58fc8",
+                            "height": 330,
+                            "photo_130": "https://sun9-77.userapi.com/impg/dLdacFP46_yV5pYUiqQUUomQRpV0PG1UZuM6tg/DMNGx0J8v-c.jpg?size=130x130&quality=96&sign=f75ce8764e6d86d72a5f82066f9cfbc5&c_uniq_tag=wmCazuH6_xY_wLueYaIiDO70CWib25N5eN9V1xXRjT0&type=album",
+                            "photo_604": "https://sun9-77.userapi.com/impg/dLdacFP46_yV5pYUiqQUUomQRpV0PG1UZuM6tg/DMNGx0J8v-c.jpg?size=330x330&quality=96&sign=d9b547ecbea18c36dbfbe98ed5046345&c_uniq_tag=wBc1YWA9ttm3aQVWVO4juXnGbKEAZpylAiN7zghPjQ8&type=album",
+                            "photo_75": "https://sun9-77.userapi.com/impg/dLdacFP46_yV5pYUiqQUUomQRpV0PG1UZuM6tg/DMNGx0J8v-c.jpg?size=75x75&quality=96&sign=e8c91148025eabe7efdf7d1ddb368d20&c_uniq_tag=-5-8QVvG-lcxNRvQz2_s6jYMO10RiF7TN0MJ56VCjHM&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294418,
+                            "id": 457239112,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "b9599ec2a8aecdb9d9",
+                            "height": 330,
+                            "photo_130": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=130x130&quality=96&sign=ca705ba57d4a5e405f218c2a1517a0cb&c_uniq_tag=H204Bh3szjVIVjgvEy8-iovGZ2MtAyRD-jrGJZ_DrO4&type=album",
+                            "photo_604": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=330x330&quality=96&sign=57569bd26164448f860f4d09453273c9&c_uniq_tag=5lzdiARzb_lt21qNOC3yN7arvFlfdY6OC1RnFsYxhHw&type=album",
+                            "photo_75": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=75x75&quality=96&sign=7dd41291b22856c92d4b9c61847b2fe7&c_uniq_tag=n2TBcRLVCh1y2dJsDm7dOlRYahs9CIehSDv5pW4pGtM&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "wxTEg5xUhZghz8i6fDPWZp-wHMwc"
+            },
+            {
+                "id": 121,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631294394,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Тест",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631294394,
+                            "id": 457239110,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "545d2bc0f30d828811",
+                            "height": 330,
+                            "photo_130": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=130x130&quality=96&sign=796a64e00d4d21923baf8a99f57b901c&c_uniq_tag=MhMM3jJFvsm_KNqJ-Jhg7_36AJ25mKHV4bEeW-IK2jo&type=album",
+                            "photo_604": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=330x330&quality=96&sign=b56309ecb87300e125a43d861b93898d&c_uniq_tag=4jUcUdPtquyqxkvzrA5cgSsPqz3h5vEdyPyQ0UR0U3M&type=album",
+                            "photo_75": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=75x75&quality=96&sign=0724b111846ca73930663fa52494a805&c_uniq_tag=D-urmO9_NWH3MPI44V7JsEG8OQ6ZLac0JHUT3clYUtY&type=album",
+                            "post_id": 121,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "hRBN5Et7ulAB5zWcQGKQIcakACD1"
+            },
+            {
+                "id": 108,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631291084,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Команда /new_xax_group , а дальше также",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631291084,
+                            "id": 457239108,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "4864578194b9a6c991",
+                            "height": 330,
+                            "photo_130": "https://sun9-75.userapi.com/impg/2YVEXqfBFPuafRRttDFDolyLiP2yrKrQHn-Cjw/TFeaEdxm0Ec.jpg?size=130x130&quality=96&sign=926386210d50667f0f3c61c6bde5005b&c_uniq_tag=oIvre34MH3tvbvpRbNoQNNJ84Wu18uHSv2t0aU34OGw&type=album",
+                            "photo_604": "https://sun9-75.userapi.com/impg/2YVEXqfBFPuafRRttDFDolyLiP2yrKrQHn-Cjw/TFeaEdxm0Ec.jpg?size=330x330&quality=96&sign=48e9b804782fa1c13f1f2f698efe6953&c_uniq_tag=Qq7rWuFTOsqOSLARmiyxBq9hUY7wkAvjDsEUWMRkrW0&type=album",
+                            "photo_75": "https://sun9-75.userapi.com/impg/2YVEXqfBFPuafRRttDFDolyLiP2yrKrQHn-Cjw/TFeaEdxm0Ec.jpg?size=75x75&quality=96&sign=86dad59d03610890591e53d1ffa2bc0f&c_uniq_tag=HHEIkfs1yHw9hp4W0lF1RRIPmURMCGJgMBtpp7iLp5w&type=album",
+                            "post_id": 108,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "ETH9zaGsJcaB5u-UaHzdXHl5kDsl"
+            },
+            {
+                "id": 107,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631291007,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "[id215774665|Аня Буторина]",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631291006,
+                            "id": 457239106,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "21634e8ca507dfe389",
+                            "height": 330,
+                            "photo_130": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=130x130&quality=96&sign=18a82e3d8ca81dded5d88f9b281635a1&c_uniq_tag=nHyHzOg-7PFVg4MCx-EF1rFXpbGXWLRFLmyY7-te52A&type=album",
+                            "photo_604": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=330x330&quality=96&sign=3913eaa2104061ec4e947d406e636789&c_uniq_tag=geiOTGz6xq9i6uGuqWbgsimDVD3B0kZn6Q7Y6N4ukJE&type=album",
+                            "photo_75": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=75x75&quality=96&sign=3db8e27b13cb8e2deb08fc63422dcd25&c_uniq_tag=ZdnwHbmpN1M8qTDZSLEfFStEVDIIqlq_R7B1jT5VFms&type=album",
+                            "post_id": 107,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 11,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 2,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "Vwt585iNN-FzvFDPCIz1tyhZzwwA"
+            },
+            {
+                "id": 106,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631290866,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Ну почти",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631290866,
+                            "id": 457239102,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "cf9d01ccd6c60d5765",
+                            "height": 330,
+                            "photo_130": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=130x130&quality=96&sign=ca705ba57d4a5e405f218c2a1517a0cb&c_uniq_tag=H204Bh3szjVIVjgvEy8-iovGZ2MtAyRD-jrGJZ_DrO4&type=album",
+                            "photo_604": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=330x330&quality=96&sign=57569bd26164448f860f4d09453273c9&c_uniq_tag=5lzdiARzb_lt21qNOC3yN7arvFlfdY6OC1RnFsYxhHw&type=album",
+                            "photo_75": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=75x75&quality=96&sign=7dd41291b22856c92d4b9c61847b2fe7&c_uniq_tag=n2TBcRLVCh1y2dJsDm7dOlRYahs9CIehSDv5pW4pGtM&type=album",
+                            "post_id": 106,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "EUWFxko38LsiV4KWnxn3l1vnxfRE"
+            },
+            {
+                "id": 105,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631290809,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Надеюсь на смайлики))",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631290809,
+                            "id": 457239095,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "d74bc46562f43ca2fc",
+                            "height": 330,
+                            "photo_130": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=130x130&quality=96&sign=796a64e00d4d21923baf8a99f57b901c&c_uniq_tag=MhMM3jJFvsm_KNqJ-Jhg7_36AJ25mKHV4bEeW-IK2jo&type=album",
+                            "photo_604": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=330x330&quality=96&sign=b56309ecb87300e125a43d861b93898d&c_uniq_tag=4jUcUdPtquyqxkvzrA5cgSsPqz3h5vEdyPyQ0UR0U3M&type=album",
+                            "photo_75": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=75x75&quality=96&sign=0724b111846ca73930663fa52494a805&c_uniq_tag=D-urmO9_NWH3MPI44V7JsEG8OQ6ZLac0JHUT3clYUtY&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631290809,
+                            "id": 457239096,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "6849f2cd9bf5a55f81",
+                            "height": 330,
+                            "photo_130": "https://sun9-69.userapi.com/impg/duAsy0PXCDX0NPX2yK9gS7PJ_RYjuGgGyACu-A/Tw153Wlr28A.jpg?size=130x130&quality=96&sign=2e3f617bab92564120b6fced340384d6&c_uniq_tag=ZBBDGpWQMgDvQ-6pj7tJekyGncN5TxcdSmiBuBGpmaw&type=album",
+                            "photo_604": "https://sun9-69.userapi.com/impg/duAsy0PXCDX0NPX2yK9gS7PJ_RYjuGgGyACu-A/Tw153Wlr28A.jpg?size=330x330&quality=96&sign=987af723bd64148b04cf9647e77d8a2e&c_uniq_tag=PttzD4wAY8WdveoHS3ZhVponeA1Hy1V_x0s_CYSMoo8&type=album",
+                            "photo_75": "https://sun9-69.userapi.com/impg/duAsy0PXCDX0NPX2yK9gS7PJ_RYjuGgGyACu-A/Tw153Wlr28A.jpg?size=75x75&quality=96&sign=8435f6b88df877b5dcb882fbcfd36a46&c_uniq_tag=kfHEyPAr4o5ZxvvKZfQ8U-2qPlFE67gqO5lk824pOoY&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631290809,
+                            "id": 457239097,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "5763d92e86816c07c2",
+                            "height": 330,
+                            "photo_130": "https://sun9-74.userapi.com/impg/4lClp3GjtU_ySiUcfS5vWSDUhps2BeGx8HO89g/3BNL5KU4MSA.jpg?size=130x130&quality=96&sign=bcb22547f607a41c417f8505dfcaafb7&c_uniq_tag=gnHCSn8HbnvPtezEK2rYz8xBjM0whxjpdXd4FsJeS98&type=album",
+                            "photo_604": "https://sun9-74.userapi.com/impg/4lClp3GjtU_ySiUcfS5vWSDUhps2BeGx8HO89g/3BNL5KU4MSA.jpg?size=330x330&quality=96&sign=4737b14270fc6a3ee7cecd44f137dcce&c_uniq_tag=OV4nL2Ya2FFI4U98DmcKydevFnw0ZE3ywyPjpRH_LxY&type=album",
+                            "photo_75": "https://sun9-74.userapi.com/impg/4lClp3GjtU_ySiUcfS5vWSDUhps2BeGx8HO89g/3BNL5KU4MSA.jpg?size=75x75&quality=96&sign=5fe42d825c221e21884c0f4e163c8e08&c_uniq_tag=gub_nC9_tv6HHVYUS7jyJ0eKMO9zDhIr3GErdgRFhSw&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631290809,
+                            "id": 457239098,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "7109730596f3be0b92",
+                            "height": 330,
+                            "photo_130": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=130x130&quality=96&sign=f1495af3e2fe05f72007151eaacc9630&c_uniq_tag=XGTA6mIpFDCX704aXA9cn0K516dckOJfedpAWF2ACqU&type=album",
+                            "photo_604": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=330x330&quality=96&sign=9a04b364e0f8753fe1e826693ed34d81&c_uniq_tag=4TesXHN-m8goeNGdHU_yJr0kOPtf0FGokmQPkcyy1M0&type=album",
+                            "photo_75": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=75x75&quality=96&sign=81e751139f1961404b832d0d5b0d10a8&c_uniq_tag=833MzbbwcQY5g9m_EreFHAZ8jMpn7nsqvN0Ib2vNCHc&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 1,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "_LcfJn1JsvN-Ny4LTTNS2PgzgR9L"
+            },
+            {
+                "id": 103,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631212339,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Было бы прикольно вот так, а не мерзнуть под дождем)",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631212339,
+                            "id": 457239092,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "84e2edb05f042af5df",
+                            "height": 330,
+                            "photo_130": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=130x130&quality=96&sign=f1495af3e2fe05f72007151eaacc9630&c_uniq_tag=XGTA6mIpFDCX704aXA9cn0K516dckOJfedpAWF2ACqU&type=album",
+                            "photo_604": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=330x330&quality=96&sign=9a04b364e0f8753fe1e826693ed34d81&c_uniq_tag=4TesXHN-m8goeNGdHU_yJr0kOPtf0FGokmQPkcyy1M0&type=album",
+                            "photo_75": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=75x75&quality=96&sign=81e751139f1961404b832d0d5b0d10a8&c_uniq_tag=833MzbbwcQY5g9m_EreFHAZ8jMpn7nsqvN0Ib2vNCHc&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631212339,
+                            "id": 457239093,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "d34db6c9113e0460e9",
+                            "height": 330,
+                            "photo_130": "https://sun9-69.userapi.com/impg/duAsy0PXCDX0NPX2yK9gS7PJ_RYjuGgGyACu-A/Tw153Wlr28A.jpg?size=130x130&quality=96&sign=2e3f617bab92564120b6fced340384d6&c_uniq_tag=ZBBDGpWQMgDvQ-6pj7tJekyGncN5TxcdSmiBuBGpmaw&type=album",
+                            "photo_604": "https://sun9-69.userapi.com/impg/duAsy0PXCDX0NPX2yK9gS7PJ_RYjuGgGyACu-A/Tw153Wlr28A.jpg?size=330x330&quality=96&sign=987af723bd64148b04cf9647e77d8a2e&c_uniq_tag=PttzD4wAY8WdveoHS3ZhVponeA1Hy1V_x0s_CYSMoo8&type=album",
+                            "photo_75": "https://sun9-69.userapi.com/impg/duAsy0PXCDX0NPX2yK9gS7PJ_RYjuGgGyACu-A/Tw153Wlr28A.jpg?size=75x75&quality=96&sign=8435f6b88df877b5dcb882fbcfd36a46&c_uniq_tag=kfHEyPAr4o5ZxvvKZfQ8U-2qPlFE67gqO5lk824pOoY&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631212339,
+                            "id": 457239094,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "e394f2e043758fa46f",
+                            "height": 330,
+                            "photo_130": "https://sun9-74.userapi.com/impg/4lClp3GjtU_ySiUcfS5vWSDUhps2BeGx8HO89g/3BNL5KU4MSA.jpg?size=130x130&quality=96&sign=bcb22547f607a41c417f8505dfcaafb7&c_uniq_tag=gnHCSn8HbnvPtezEK2rYz8xBjM0whxjpdXd4FsJeS98&type=album",
+                            "photo_604": "https://sun9-74.userapi.com/impg/4lClp3GjtU_ySiUcfS5vWSDUhps2BeGx8HO89g/3BNL5KU4MSA.jpg?size=330x330&quality=96&sign=4737b14270fc6a3ee7cecd44f137dcce&c_uniq_tag=OV4nL2Ya2FFI4U98DmcKydevFnw0ZE3ywyPjpRH_LxY&type=album",
+                            "photo_75": "https://sun9-74.userapi.com/impg/4lClp3GjtU_ySiUcfS5vWSDUhps2BeGx8HO89g/3BNL5KU4MSA.jpg?size=75x75&quality=96&sign=5fe42d825c221e21884c0f4e163c8e08&c_uniq_tag=gub_nC9_tv6HHVYUS7jyJ0eKMO9zDhIr3GErdgRFhSw&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "ngoMdBcIhbRrVUmw_DB0ABkrDk2_"
+            },
+            {
+                "id": 102,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631209805,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Ну или ночь",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631209805,
+                            "id": 457239088,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "7bdeeb6f5198920ef2",
+                            "height": 330,
+                            "photo_130": "https://sun9-53.userapi.com/impg/DQe97J2aWyWT3aN4q1TmuZYN7QgBJJ8zHrWt6w/sNRZXgLMeec.jpg?size=130x130&quality=96&sign=a37f1cb6bca9f2f0b61aa141c6c01068&c_uniq_tag=6BtEjZ9FL59Lw4UGWULcBc13su3SOclKKcPZro_8ac4&type=album",
+                            "photo_604": "https://sun9-53.userapi.com/impg/DQe97J2aWyWT3aN4q1TmuZYN7QgBJJ8zHrWt6w/sNRZXgLMeec.jpg?size=330x330&quality=96&sign=0eeca3d81b9b5af6e38a5814c9af3b2b&c_uniq_tag=BX6GPg3J2cuWqUpebzrhrRFy10JknPzxyOqgg2Obsik&type=album",
+                            "photo_75": "https://sun9-53.userapi.com/impg/DQe97J2aWyWT3aN4q1TmuZYN7QgBJJ8zHrWt6w/sNRZXgLMeec.jpg?size=75x75&quality=96&sign=abf16fff7a176c157ca5a63fae388fb2&c_uniq_tag=e9G7QEWAnRtGc_y9P6DoMG0HzbO8XDDwpF3vaxydV7k&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631209805,
+                            "id": 457239089,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "89ea2cbee4d6a78912",
+                            "height": 330,
+                            "photo_130": "https://sun9-30.userapi.com/impg/mnWDDGEx-xnHBZlQm1LB0QEGYV42iqZYUyn_OA/0VE3e_Z7xNA.jpg?size=130x130&quality=96&sign=d6f88a7c2b12cf146cd85df9abdb9616&c_uniq_tag=kftavPUVBB0-KAsBlcUESHWd5zNNn1wmKrlfx8j3gdE&type=album",
+                            "photo_604": "https://sun9-30.userapi.com/impg/mnWDDGEx-xnHBZlQm1LB0QEGYV42iqZYUyn_OA/0VE3e_Z7xNA.jpg?size=330x330&quality=96&sign=41588fd77965d43e4cebb7607424654b&c_uniq_tag=0RsVMc1cGGxvzZrUJt4UFBSDFv1Xjnyd7PSTy0Jc9SQ&type=album",
+                            "photo_75": "https://sun9-30.userapi.com/impg/mnWDDGEx-xnHBZlQm1LB0QEGYV42iqZYUyn_OA/0VE3e_Z7xNA.jpg?size=75x75&quality=96&sign=2b4b9e7d5316b731d7e6e780edac9bb5&c_uniq_tag=44NPyzwOLEU8aH52ybFCGJj61ZiU4geyS5VJvNT88oo&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631209805,
+                            "id": 457239090,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "6e6550606f913fb4d1",
+                            "height": 330,
+                            "photo_130": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=130x130&quality=96&sign=18a82e3d8ca81dded5d88f9b281635a1&c_uniq_tag=nHyHzOg-7PFVg4MCx-EF1rFXpbGXWLRFLmyY7-te52A&type=album",
+                            "photo_604": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=330x330&quality=96&sign=3913eaa2104061ec4e947d406e636789&c_uniq_tag=geiOTGz6xq9i6uGuqWbgsimDVD3B0kZn6Q7Y6N4ukJE&type=album",
+                            "photo_75": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=75x75&quality=96&sign=3db8e27b13cb8e2deb08fc63422dcd25&c_uniq_tag=ZdnwHbmpN1M8qTDZSLEfFStEVDIIqlq_R7B1jT5VFms&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "Hy7eFKmgVTABrxrIX4t6w094o-Oc"
+            },
+            {
+                "id": 101,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631209729,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Всем добрый вечер",
+                "can_edit": 1,
+                "created_by": 333482474,
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631209729,
+                            "id": 457239084,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "5c56caa3b610498753",
+                            "height": 330,
+                            "photo_130": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=130x130&quality=96&sign=796a64e00d4d21923baf8a99f57b901c&c_uniq_tag=MhMM3jJFvsm_KNqJ-Jhg7_36AJ25mKHV4bEeW-IK2jo&type=album",
+                            "photo_604": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=330x330&quality=96&sign=b56309ecb87300e125a43d861b93898d&c_uniq_tag=4jUcUdPtquyqxkvzrA5cgSsPqz3h5vEdyPyQ0UR0U3M&type=album",
+                            "photo_75": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=75x75&quality=96&sign=0724b111846ca73930663fa52494a805&c_uniq_tag=D-urmO9_NWH3MPI44V7JsEG8OQ6ZLac0JHUT3clYUtY&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631209729,
+                            "id": 457239085,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "0a136b9d322db02c23",
+                            "height": 330,
+                            "photo_130": "https://sun9-65.userapi.com/impg/lRLlbRNRxsBJaWE0MX0W7nux1aoOX-i7Rowx5g/1eScOfhms0Q.jpg?size=130x130&quality=96&sign=81d328b8c5bde1ee4b2a866814f06cf1&c_uniq_tag=OecHhumIun5xvOH6Jtcr8cxrGHfiIbwNjbiRi0jIcI8&type=album",
+                            "photo_604": "https://sun9-65.userapi.com/impg/lRLlbRNRxsBJaWE0MX0W7nux1aoOX-i7Rowx5g/1eScOfhms0Q.jpg?size=330x330&quality=96&sign=0040eb265020a9107222391eb0973fdf&c_uniq_tag=zDxEpwPPc_zrbs5ZeUumOGhwB1PXpIyNa5cP8l95UHQ&type=album",
+                            "photo_75": "https://sun9-65.userapi.com/impg/lRLlbRNRxsBJaWE0MX0W7nux1aoOX-i7Rowx5g/1eScOfhms0Q.jpg?size=75x75&quality=96&sign=98d71122348983022a248570fb1d3f0a&c_uniq_tag=qqeKwZG_lRHyjVglA-_iP-ZgirXuU0OV5MubZOAjx8U&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    },
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631209729,
+                            "id": 457239086,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "d82fb392fbee536d44",
+                            "height": 330,
+                            "photo_130": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=130x130&quality=96&sign=09f2576d336e29bea7840d9a0960b474&c_uniq_tag=rKM8rK93DXsgo-GJfF9QxauXj-TpG6kKSby8NJ1_d1Y&type=album",
+                            "photo_604": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=330x330&quality=96&sign=a0c7fb9d3b26a0d65f9181d6a242a3a3&c_uniq_tag=8CPAblfOLWzT2W3Kl2wyIvOqdyunuF0yRtjVz_1id24&type=album",
+                            "photo_75": "https://sun9-28.userapi.com/impg/Vd9mc9mKdT90UtVTwG-G84PFX6eU_xoTpXpu1w/AX9iUf1XS8c.jpg?size=75x75&quality=96&sign=e15cb7a3a3798e96758d273837a3a2d9&c_uniq_tag=2YANbP1wZtKBdAxX3WnmRn2McTK59vK84CnqHVz5wNE&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "sEv42iDEgzh2M97ywDtMXs--oA-j"
+            },
+            {
+                "id": 98,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631206784,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Красиво)",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631206784,
+                            "id": 457239076,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "5637e0becfffd45f99",
+                            "height": 330,
+                            "photo_130": "https://sun9-84.userapi.com/impg/_gL5RDDscbM_L0FGZzGGwnyfkXek1SUpNRkiUg/ieDt4MSLGP8.jpg?size=130x130&quality=96&sign=12a667bbec3fd67aea7faab80d64168a&c_uniq_tag=bFmdjdmiE8v5RqNBWtRMkD30hl6tzqCS6ke9ZwC0Zn4&type=album",
+                            "photo_604": "https://sun9-84.userapi.com/impg/_gL5RDDscbM_L0FGZzGGwnyfkXek1SUpNRkiUg/ieDt4MSLGP8.jpg?size=330x330&quality=96&sign=381530460de907d07575f0d4eed251eb&c_uniq_tag=u-lXWaKP6N7tGe3twIhSTUONsRE-2NdG5qYjJNWheFA&type=album",
+                            "photo_75": "https://sun9-84.userapi.com/impg/_gL5RDDscbM_L0FGZzGGwnyfkXek1SUpNRkiUg/ieDt4MSLGP8.jpg?size=75x75&quality=96&sign=f1d37597e1e4647db82d2aa03684f1ad&c_uniq_tag=t-4_dPFAnkfznTnlGNCK-ejU_x5cK7dWSBgAux621bk&type=album",
+                            "post_id": 98,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 2,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "dYzb2pEllDBf6CkxIvos_jqq_VPq"
+            },
+            {
+                "id": 97,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631206638,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631206638,
+                            "id": 457239069,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "2093e1d7abced6f6e8",
+                            "height": 330,
+                            "photo_130": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=130x130&quality=96&sign=ca705ba57d4a5e405f218c2a1517a0cb&c_uniq_tag=H204Bh3szjVIVjgvEy8-iovGZ2MtAyRD-jrGJZ_DrO4&type=album",
+                            "photo_604": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=330x330&quality=96&sign=57569bd26164448f860f4d09453273c9&c_uniq_tag=5lzdiARzb_lt21qNOC3yN7arvFlfdY6OC1RnFsYxhHw&type=album",
+                            "photo_75": "https://sun9-67.userapi.com/impg/T-_2NYj72Itx2R-j_HXH42KH5B8kyqzC7ncfUg/WVm-fYXYe-g.jpg?size=75x75&quality=96&sign=7dd41291b22856c92d4b9c61847b2fe7&c_uniq_tag=n2TBcRLVCh1y2dJsDm7dOlRYahs9CIehSDv5pW4pGtM&type=album",
+                            "post_id": 97,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "8v7HQwb0GzWNmNpR6Gy2n4P8JvK3"
+            },
+            {
+                "id": 96,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631206544,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631206544,
+                            "id": 457239068,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "f5e3ff3e89625c00d2",
+                            "height": 330,
+                            "photo_130": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=130x130&quality=96&sign=f1495af3e2fe05f72007151eaacc9630&c_uniq_tag=XGTA6mIpFDCX704aXA9cn0K516dckOJfedpAWF2ACqU&type=album",
+                            "photo_604": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=330x330&quality=96&sign=9a04b364e0f8753fe1e826693ed34d81&c_uniq_tag=4TesXHN-m8goeNGdHU_yJr0kOPtf0FGokmQPkcyy1M0&type=album",
+                            "photo_75": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=75x75&quality=96&sign=81e751139f1961404b832d0d5b0d10a8&c_uniq_tag=833MzbbwcQY5g9m_EreFHAZ8jMpn7nsqvN0Ib2vNCHc&type=album",
+                            "post_id": 96,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "Az0qPfbq9fs9KCfENIDBAb5fjDKq"
+            },
+            {
+                "id": 95,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631206347,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Агааа",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631206347,
+                            "id": 457239067,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "6ee9c754ac7d049882",
+                            "height": 330,
+                            "photo_130": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=130x130&quality=96&sign=796a64e00d4d21923baf8a99f57b901c&c_uniq_tag=MhMM3jJFvsm_KNqJ-Jhg7_36AJ25mKHV4bEeW-IK2jo&type=album",
+                            "photo_604": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=330x330&quality=96&sign=b56309ecb87300e125a43d861b93898d&c_uniq_tag=4jUcUdPtquyqxkvzrA5cgSsPqz3h5vEdyPyQ0UR0U3M&type=album",
+                            "photo_75": "https://sun9-84.userapi.com/impg/AsS3xXWhFcFfyfSZJCHwIl_WieqigBibOdITwg/-XCDBkWVBeI.jpg?size=75x75&quality=96&sign=0724b111846ca73930663fa52494a805&c_uniq_tag=D-urmO9_NWH3MPI44V7JsEG8OQ6ZLac0JHUT3clYUtY&type=album",
+                            "post_id": 95,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "JhRSD_gpmVbOIIFv6rVOSRdP21VT"
+            },
+            {
+                "id": 94,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631206223,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "привет",
+                "can_delete": 1,
+                "can_pin": 1,
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 1,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "yLxRenKGJs7vHlufJIeJdTWeDe6Q"
+            },
+            {
+                "id": 93,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631206162,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631206162,
+                            "id": 457239066,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "f6e2c75674e89f428f",
+                            "height": 330,
+                            "photo_130": "https://sun9-65.userapi.com/impg/lRLlbRNRxsBJaWE0MX0W7nux1aoOX-i7Rowx5g/1eScOfhms0Q.jpg?size=130x130&quality=96&sign=81d328b8c5bde1ee4b2a866814f06cf1&c_uniq_tag=OecHhumIun5xvOH6Jtcr8cxrGHfiIbwNjbiRi0jIcI8&type=album",
+                            "photo_604": "https://sun9-65.userapi.com/impg/lRLlbRNRxsBJaWE0MX0W7nux1aoOX-i7Rowx5g/1eScOfhms0Q.jpg?size=330x330&quality=96&sign=0040eb265020a9107222391eb0973fdf&c_uniq_tag=zDxEpwPPc_zrbs5ZeUumOGhwB1PXpIyNa5cP8l95UHQ&type=album",
+                            "photo_75": "https://sun9-65.userapi.com/impg/lRLlbRNRxsBJaWE0MX0W7nux1aoOX-i7Rowx5g/1eScOfhms0Q.jpg?size=75x75&quality=96&sign=98d71122348983022a248570fb1d3f0a&c_uniq_tag=qqeKwZG_lRHyjVglA-_iP-ZgirXuU0OV5MubZOAjx8U&type=album",
+                            "post_id": 93,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "TdiNrQEm6lnumZ9XHkx-z1z1EvwO"
+            },
+            {
+                "id": 92,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631205809,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631205809,
+                            "id": 457239065,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "d3283de5e8fff262d3",
+                            "height": 330,
+                            "photo_130": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=130x130&quality=96&sign=f1495af3e2fe05f72007151eaacc9630&c_uniq_tag=XGTA6mIpFDCX704aXA9cn0K516dckOJfedpAWF2ACqU&type=album",
+                            "photo_604": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=330x330&quality=96&sign=9a04b364e0f8753fe1e826693ed34d81&c_uniq_tag=4TesXHN-m8goeNGdHU_yJr0kOPtf0FGokmQPkcyy1M0&type=album",
+                            "photo_75": "https://sun9-64.userapi.com/impg/z2hBF3FJ8x-QORQDFyLg3A4wr4ne2ZlKh9q_qw/XYnuNm5z9w4.jpg?size=75x75&quality=96&sign=81e751139f1961404b832d0d5b0d10a8&c_uniq_tag=833MzbbwcQY5g9m_EreFHAZ8jMpn7nsqvN0Ib2vNCHc&type=album",
+                            "post_id": 92,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "LIrZaA0iUVHUBVd_V07SEWD4xcwE"
+            },
+            {
+                "id": 91,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631205652,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631205652,
+                            "id": 457239064,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "218fdaa1b0c7c4c73e",
+                            "height": 330,
+                            "photo_130": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=130x130&quality=96&sign=18a82e3d8ca81dded5d88f9b281635a1&c_uniq_tag=nHyHzOg-7PFVg4MCx-EF1rFXpbGXWLRFLmyY7-te52A&type=album",
+                            "photo_604": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=330x330&quality=96&sign=3913eaa2104061ec4e947d406e636789&c_uniq_tag=geiOTGz6xq9i6uGuqWbgsimDVD3B0kZn6Q7Y6N4ukJE&type=album",
+                            "photo_75": "https://sun9-61.userapi.com/impg/L8lcYL6m8MA4yZI993qNJfTo5Il58wJ305oWpA/2hBjqHDJhBQ.jpg?size=75x75&quality=96&sign=3db8e27b13cb8e2deb08fc63422dcd25&c_uniq_tag=ZdnwHbmpN1M8qTDZSLEfFStEVDIIqlq_R7B1jT5VFms&type=album",
+                            "post_id": 91,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "TWwTfSmlhTrtNDwwaF53zb29M2_i"
+            },
+            {
+                "id": 90,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631205221,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631205221,
+                            "id": 457239063,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "d2ff26fa4dcc61f5dc",
+                            "height": 330,
+                            "photo_130": "https://sun9-41.userapi.com/impg/LuvwImNMvKwp3D-fVvcfyTaw72xKWzk6oz7rWg/Fz4HsBf1-F4.jpg?size=130x130&quality=96&sign=8bb5e73a66e1a7ff56eea49a35aa5cba&c_uniq_tag=Vql-3r5Ly7Jr5P0DKgvKfbkwhbqzKYqnj7q-SGuCvrA&type=album",
+                            "photo_604": "https://sun9-41.userapi.com/impg/LuvwImNMvKwp3D-fVvcfyTaw72xKWzk6oz7rWg/Fz4HsBf1-F4.jpg?size=330x330&quality=96&sign=cf8ae468f7dd57271fb022cdcc12d355&c_uniq_tag=XyXfVLEgjwFmdYYAOZaJwCAKPuTtyuLi0Bzny31IGro&type=album",
+                            "photo_75": "https://sun9-41.userapi.com/impg/LuvwImNMvKwp3D-fVvcfyTaw72xKWzk6oz7rWg/Fz4HsBf1-F4.jpg?size=75x75&quality=96&sign=d4764ad8b5d62ecbfa0cfe42173eec9d&c_uniq_tag=n_SvFXOZGMIlWtfEVAOl6B-h_oSFqY5512i8EsbPZVM&type=album",
+                            "post_id": 90,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "SM4YcggYx1rJ5pa5liPQZ7gklxoA"
+            },
+            {
+                "id": 89,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631204343,
+                "postponed_id": 78,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170450,
+                            "id": 457239062,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "9ecc8b101dde0cea8d",
+                            "height": 330,
+                            "photo_130": "https://sun9-15.userapi.com/impg/7IMdRIQY2N8jHx_Lg0nFEoECLHXQngY7kvm__A/y5ZTeFJMJeY.jpg?size=130x130&quality=96&sign=eca97c69ecc731e60336435a0db5407d&c_uniq_tag=B2144XUhxUjRHMqFPYrRwNkEJjh4wjaZB2rRlz51s4w&type=album",
+                            "photo_604": "https://sun9-15.userapi.com/impg/7IMdRIQY2N8jHx_Lg0nFEoECLHXQngY7kvm__A/y5ZTeFJMJeY.jpg?size=330x330&quality=96&sign=7705578877ccdd6d65d912d1f105e1c6&c_uniq_tag=2DWfeUDbCTL4czq5AQj2ID_oCPSDffm0lxthATxdXZs&type=album",
+                            "photo_75": "https://sun9-15.userapi.com/impg/7IMdRIQY2N8jHx_Lg0nFEoECLHXQngY7kvm__A/y5ZTeFJMJeY.jpg?size=75x75&quality=96&sign=d683bdfc16937f3e8d75da7a6044b07d&c_uniq_tag=Lzfq6uHc5yXCCNy_46tzSa4_Nva4IzAgNcEGULiAs-w&type=album",
+                            "post_id": 89,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "tOYm2ZopnM-3qagodi00dHUe-RBn"
+            },
+            {
+                "id": 88,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631203201,
+                "postponed_id": 77,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170442,
+                            "id": 457239061,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "be3b38e3d36e89017f",
+                            "height": 330,
+                            "photo_130": "https://sun9-88.userapi.com/impg/gXX0AXr63NbMCWdwkTSDRJy9NF3pNSv2G8J8Xw/5P4JragE-6E.jpg?size=130x130&quality=96&sign=08551f410c50e0cee02dfb05f3acc336&c_uniq_tag=v7NFOaSxnDCcnyUPAzbyVuU9hrV9T9Vf46UofCu22ys&type=album",
+                            "photo_604": "https://sun9-88.userapi.com/impg/gXX0AXr63NbMCWdwkTSDRJy9NF3pNSv2G8J8Xw/5P4JragE-6E.jpg?size=330x330&quality=96&sign=51f6d5ab9de4833de78a83e3beb48e04&c_uniq_tag=-a0hkzPFRkJToaywRw2sz8DSZ5cQpPSc8C85CP_jcTk&type=album",
+                            "photo_75": "https://sun9-88.userapi.com/impg/gXX0AXr63NbMCWdwkTSDRJy9NF3pNSv2G8J8Xw/5P4JragE-6E.jpg?size=75x75&quality=96&sign=961e07450b2ae0aeeb54185cda9543cf&c_uniq_tag=BaNMChbJGighZXfxkd_wCIZ6Zo9s73cSTaUyFSxiumw&type=album",
+                            "post_id": 88,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "HfY2RQFfl4CCHO3ATAa3mwij12lS"
+            },
+            {
+                "id": 87,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631199602,
+                "postponed_id": 76,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170428,
+                            "id": 457239060,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "fa675b1f689b528084",
+                            "height": 330,
+                            "photo_130": "https://sun9-15.userapi.com/impg/OkE3Yz5ucKxc2nAPTX7etou6Nu4UMjZ2m5N0qw/SkAvPbOw6r4.jpg?size=130x130&quality=96&sign=f51c4c1568490395db0ff4e4df4668de&c_uniq_tag=5_FmEY4LLzH0j8wnmJtph4CKXqRnhg-xbK8TzyGiWBc&type=album",
+                            "photo_604": "https://sun9-15.userapi.com/impg/OkE3Yz5ucKxc2nAPTX7etou6Nu4UMjZ2m5N0qw/SkAvPbOw6r4.jpg?size=330x330&quality=96&sign=a48d3843c4413932cc8af78581596881&c_uniq_tag=Yuq1a3Bp9QYTWm20ows4SgBe1Rme_YgZWqgeCeS5caA&type=album",
+                            "photo_75": "https://sun9-15.userapi.com/impg/OkE3Yz5ucKxc2nAPTX7etou6Nu4UMjZ2m5N0qw/SkAvPbOw6r4.jpg?size=75x75&quality=96&sign=44ae3855b76b029eaa0739b79cfa2bbc&c_uniq_tag=TNYkDeMzhfdl9EjoK14g_rQJM57I4VF-G6WylyqhPJ4&type=album",
+                            "post_id": 87,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "Cq6OlA9AyadcSRJT2niX5M7q-qIV"
+            },
+            {
+                "id": 86,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631196001,
+                "postponed_id": 75,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170421,
+                            "id": 457239059,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "73d08162c3337be861",
+                            "height": 330,
+                            "photo_130": "https://sun9-19.userapi.com/impg/iy8G6gsrsLgqqGo8JMx6NCh1EhgNngzNT5OaaA/gwhMmxLDfuo.jpg?size=130x130&quality=96&sign=2bbb660372915e6b87ce6398a74b81d3&c_uniq_tag=5FZPLdn_p4D3-1wYJQV65LwawkriaULNjtHiYT13Sjs&type=album",
+                            "photo_604": "https://sun9-19.userapi.com/impg/iy8G6gsrsLgqqGo8JMx6NCh1EhgNngzNT5OaaA/gwhMmxLDfuo.jpg?size=330x330&quality=96&sign=781e4586a0b5b2b3e64ab348757cdeb2&c_uniq_tag=knak0XB029IpexyQr2EsVjUJ7MCnxrekYAIyMMUnLvI&type=album",
+                            "photo_75": "https://sun9-19.userapi.com/impg/iy8G6gsrsLgqqGo8JMx6NCh1EhgNngzNT5OaaA/gwhMmxLDfuo.jpg?size=75x75&quality=96&sign=cd71ad25365f649dfcd5dc66d06ca8f9&c_uniq_tag=TUbj86cJ3NSWRZG7QnmTmiqC3c9CsoKM7p6jcFSIvtk&type=album",
+                            "post_id": 86,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "I6phYLlAeJgWyb2xKJU6MU8KDzcb"
+            },
+            {
+                "id": 85,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631192402,
+                "postponed_id": 74,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170417,
+                            "id": 457239058,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "f83f03e7546c4a7b05",
+                            "height": 330,
+                            "photo_130": "https://sun9-61.userapi.com/impg/uKpnFqR9zMOd64HXXGafPxwNeYY9d7qI6VlM1Q/bXmWiwTjxT8.jpg?size=130x130&quality=96&sign=f5963174a05f3ad199e7ac599f4d573f&c_uniq_tag=Kr7lMA7ZFM0kXd_52LkR5ALfsMxa4b09UrgyllsIkXQ&type=album",
+                            "photo_604": "https://sun9-61.userapi.com/impg/uKpnFqR9zMOd64HXXGafPxwNeYY9d7qI6VlM1Q/bXmWiwTjxT8.jpg?size=330x330&quality=96&sign=5e32f9a2e2be3efcd962617c820e36d2&c_uniq_tag=QCK9nZinNF2kMuA_B2Ha4Mp9oMOjwqE8dwlPMGY8A48&type=album",
+                            "photo_75": "https://sun9-61.userapi.com/impg/uKpnFqR9zMOd64HXXGafPxwNeYY9d7qI6VlM1Q/bXmWiwTjxT8.jpg?size=75x75&quality=96&sign=0330021f0365ee48749b790ceabc0ff6&c_uniq_tag=jr-dvzGIrZQtZOu_r3UIm5E8pDJ_xIrWPEy5ZLPsi30&type=album",
+                            "post_id": 85,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "bfBQwsCPNzKFLoJn8Kl5qoOVfLh9"
+            },
+            {
+                "id": 84,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631188802,
+                "postponed_id": 73,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170412,
+                            "id": 457239057,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "4c74829e42bea1bbd6",
+                            "height": 330,
+                            "photo_130": "https://sun9-47.userapi.com/impg/7weWJCpLvn5F4hyZx3x72xImT7TkTfgsAPJ78A/l_T2b1251Wc.jpg?size=130x130&quality=96&sign=4b5a900cefa3ecc9dd8492eecfc20cfe&c_uniq_tag=vW4nj5cpczc3B1u94RgTdGkrrY8K3To0fqqt6_2kays&type=album",
+                            "photo_604": "https://sun9-47.userapi.com/impg/7weWJCpLvn5F4hyZx3x72xImT7TkTfgsAPJ78A/l_T2b1251Wc.jpg?size=330x330&quality=96&sign=670019e3b953d7cecf87ec40415f38b5&c_uniq_tag=1Ab_zR1ASNDdKEyDjrxaHmu_IcWelZjCXM51SdLHBE8&type=album",
+                            "photo_75": "https://sun9-47.userapi.com/impg/7weWJCpLvn5F4hyZx3x72xImT7TkTfgsAPJ78A/l_T2b1251Wc.jpg?size=75x75&quality=96&sign=43d67a463785e97c20a28dd2f0d7aef5&c_uniq_tag=8nKh6oPYbfKZYVNCUR_q5dOddF0QCnNAw9WZ0D5pCzs&type=album",
+                            "post_id": 84,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "t5Ty0WV6AWbj47RxpyamvmKoLS9s"
+            },
+            {
+                "id": 83,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631185202,
+                "postponed_id": 72,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170407,
+                            "id": 457239056,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "84f085b0826406d90c",
+                            "height": 330,
+                            "photo_130": "https://sun9-11.userapi.com/impg/URIVPds6kWrquEaPcrdzd_zcOpYAlcs4Tu-5Kw/HhWYBY30cCQ.jpg?size=130x130&quality=96&sign=7bd40f9de305e89c90f5279adc39606e&c_uniq_tag=cmrPOzGxEh8SdhSEzh5wEgNFLHfBQ263TKI5Bsdv4xw&type=album",
+                            "photo_604": "https://sun9-11.userapi.com/impg/URIVPds6kWrquEaPcrdzd_zcOpYAlcs4Tu-5Kw/HhWYBY30cCQ.jpg?size=330x330&quality=96&sign=b31f6576e854ff76257b75e5048f4f6c&c_uniq_tag=LNGctED7R_XFgIE6i8thF-c9Zmr63knF2cB73p9Tync&type=album",
+                            "photo_75": "https://sun9-11.userapi.com/impg/URIVPds6kWrquEaPcrdzd_zcOpYAlcs4Tu-5Kw/HhWYBY30cCQ.jpg?size=75x75&quality=96&sign=9a2700cc2c1753ac3dc1bcc885212fb5&c_uniq_tag=tgllQ74I1nuieHIj-oK7b80kBHi7J-1XDiZaXX3kPnw&type=album",
+                            "post_id": 83,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "_DVKbwO2VKxfaCD8knhxBfMX3SqQ"
+            },
+            {
+                "id": 82,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631171960,
+                "postponed_id": 71,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170398,
+                            "id": 457239055,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "e82c18c2f4fba7ced8",
+                            "height": 330,
+                            "photo_130": "https://sun9-61.userapi.com/impg/00CIO2g17DMITQ6vN-sNfo7rHWws9zAJa-iD6w/kJl9aL9jDVg.jpg?size=130x130&quality=96&sign=a131b0d3193a3c6e770002e5ae284436&c_uniq_tag=_xFr2iXvHfbltAtbvAW-2BEwKRZVV_e8wZo4l7XfFec&type=album",
+                            "photo_604": "https://sun9-61.userapi.com/impg/00CIO2g17DMITQ6vN-sNfo7rHWws9zAJa-iD6w/kJl9aL9jDVg.jpg?size=330x330&quality=96&sign=96afb75344a311befbb2f9b45f260263&c_uniq_tag=4wCwlrSjoesF2oeFlLCC9UrflaQkjGBb1DQD2rKoht0&type=album",
+                            "photo_75": "https://sun9-61.userapi.com/impg/00CIO2g17DMITQ6vN-sNfo7rHWws9zAJa-iD6w/kJl9aL9jDVg.jpg?size=75x75&quality=96&sign=6d03af413a944d35b3049c0a81b4b17f&c_uniq_tag=WNVHFSDp8B2o8UYpTH3zMYOCKXJnxEWPN_IHKnyocxA&type=album",
+                            "post_id": 82,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "yp4F250HhK_2erpC4Sbqt_VL9CuT"
+            },
+            {
+                "id": 81,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631171167,
+                "postponed_id": 70,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170393,
+                            "id": 457239054,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "c98d2bc317a99e1867",
+                            "height": 330,
+                            "photo_130": "https://sun9-74.userapi.com/impg/PfeB_XbXxBaAUc_YkiDFuS56X7COLgtHODFvag/6fE5NJHC8co.jpg?size=130x130&quality=96&sign=842247078351abd7ebc55f43e78dc331&c_uniq_tag=nACO5Auy4ULO6rc4ZNe0tJk_8UH-hGAqs5RIRFHdPDI&type=album",
+                            "photo_604": "https://sun9-74.userapi.com/impg/PfeB_XbXxBaAUc_YkiDFuS56X7COLgtHODFvag/6fE5NJHC8co.jpg?size=330x330&quality=96&sign=45e1672ef9d8ef7a93bbf215d9b574c9&c_uniq_tag=AJN5-0lKMHcZNge14o0bqJTHNdHMMBd0odDzSA5YPSA&type=album",
+                            "photo_75": "https://sun9-74.userapi.com/impg/PfeB_XbXxBaAUc_YkiDFuS56X7COLgtHODFvag/6fE5NJHC8co.jpg?size=75x75&quality=96&sign=e26c19891d329885c366b8376d0529b4&c_uniq_tag=1S6cZNnzxI83d746DjxMo3OwxreuVRGVEO-freEGwTs&type=album",
+                            "post_id": 81,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "2DOXECewuol3vwnrVArqWpl_J_to"
+            },
+            {
+                "id": 80,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631171161,
+                "postponed_id": 69,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170388,
+                            "id": 457239053,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "0e0ea8d158437aac62",
+                            "height": 330,
+                            "photo_130": "https://sun9-20.userapi.com/impg/pojXdRqGUYMBrEryr-MCMJKb8xVlacK_RCxzLQ/4iSTYkluXx0.jpg?size=130x130&quality=96&sign=0e69e74477157bbdfa0c40020cd7575b&c_uniq_tag=CytwPg3DNow8IKLax6mdyObX6LapNWgu7TTu0skgIVM&type=album",
+                            "photo_604": "https://sun9-20.userapi.com/impg/pojXdRqGUYMBrEryr-MCMJKb8xVlacK_RCxzLQ/4iSTYkluXx0.jpg?size=330x330&quality=96&sign=8565a6ba7beb76e5a1cade6876e774e3&c_uniq_tag=ffZgVHCjH0WDoISHEL6S13cpb7LZQ9AE1zTjmTqOgEw&type=album",
+                            "photo_75": "https://sun9-20.userapi.com/impg/pojXdRqGUYMBrEryr-MCMJKb8xVlacK_RCxzLQ/4iSTYkluXx0.jpg?size=75x75&quality=96&sign=f09b6e64a02a855ea328f431cbc0599f&c_uniq_tag=8ElrMWyf-mVrVuD-rid4I62qRat2udXJFAaxQ1lI2JU&type=album",
+                            "post_id": 80,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "0ZjGSdV-Mm10BlYXJHb19POA1LfA"
+            },
+            {
+                "id": 79,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1631170804,
+                "postponed_id": 68,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1631170372,
+                            "id": 457239052,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "7fde5e51052b65d856",
+                            "height": 330,
+                            "photo_130": "https://sun9-20.userapi.com/impg/pojXdRqGUYMBrEryr-MCMJKb8xVlacK_RCxzLQ/4iSTYkluXx0.jpg?size=130x130&quality=96&sign=0e69e74477157bbdfa0c40020cd7575b&c_uniq_tag=CytwPg3DNow8IKLax6mdyObX6LapNWgu7TTu0skgIVM&type=album",
+                            "photo_604": "https://sun9-20.userapi.com/impg/pojXdRqGUYMBrEryr-MCMJKb8xVlacK_RCxzLQ/4iSTYkluXx0.jpg?size=330x330&quality=96&sign=8565a6ba7beb76e5a1cade6876e774e3&c_uniq_tag=ffZgVHCjH0WDoISHEL6S13cpb7LZQ9AE1zTjmTqOgEw&type=album",
+                            "photo_75": "https://sun9-20.userapi.com/impg/pojXdRqGUYMBrEryr-MCMJKb8xVlacK_RCxzLQ/4iSTYkluXx0.jpg?size=75x75&quality=96&sign=f09b6e64a02a855ea328f431cbc0599f&c_uniq_tag=8ElrMWyf-mVrVuD-rid4I62qRat2udXJFAaxQ1lI2JU&type=album",
+                            "post_id": 79,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 330
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "nYSrYCmjrbapAwvcHH9408ZXCkg7"
+            },
+            {
+                "id": 61,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1630953120,
+                "postponed_id": 47,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1630938935,
+                            "id": 457239048,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "2de8a5941a470f872b",
+                            "height": 275,
+                            "photo_130": "https://sun9-7.userapi.com/impg/szOxHwz28WGcg_q_d6gzIBMoPnSyBVVkyghliQ/q9s_kg3mDAU.jpg?size=86x130&quality=96&sign=34bdf6204f846b78fd1ae3ade0661fe1&c_uniq_tag=hir-cQXBYWGUEii4QMhmtlCKxC_N-UJ0Au_hjEetoUw&type=album",
+                            "photo_604": "https://sun9-7.userapi.com/impg/szOxHwz28WGcg_q_d6gzIBMoPnSyBVVkyghliQ/q9s_kg3mDAU.jpg?size=183x275&quality=96&sign=28add445916fa83792b8d9cda32200ed&c_uniq_tag=Cx17hsgekPDRcNSvqiRXZIzGSnBpKeTlhOz7if11eUg&type=album",
+                            "photo_75": "https://sun9-7.userapi.com/impg/szOxHwz28WGcg_q_d6gzIBMoPnSyBVVkyghliQ/q9s_kg3mDAU.jpg?size=50x75&quality=96&sign=26ee6dae6e5b248f132ac9978019a8a8&c_uniq_tag=sLIKnPfFJdP378o-BYVNKyuJHKxphAnkgQQGYFIbVKM&type=album",
+                            "post_id": 61,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 183
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "6MnIUhD902D1MhQKESuEMwBg6Z_q"
+            },
+            {
+                "id": 60,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1630948548,
+                "postponed_id": 46,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1630938926,
+                            "id": 457239047,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "9dcf5858feed07f7a4",
+                            "height": 768,
+                            "photo_1280": "https://sun9-24.userapi.com/impg/nDPB5TjqcfBuUqf8R-YyTuT-kx8k0l1d1hyzaA/o1svbuovYxU.jpg?size=1024x768&quality=96&sign=0a4847401073e2c0ebd103df4b44ae07&c_uniq_tag=HkwhuloBhKY6LjTif2QdadvdldvZ5PnC11wHuPV0H_Y&type=album",
+                            "photo_130": "https://sun9-24.userapi.com/impg/nDPB5TjqcfBuUqf8R-YyTuT-kx8k0l1d1hyzaA/o1svbuovYxU.jpg?size=130x97&quality=96&sign=8ba47e39ccc53d0ed5d11588dcf9f8a3&c_uniq_tag=xIry88Eq-Rqir5uSpLg-CoAqjdAWC-fx5-iaPQ1v8tM&type=album",
+                            "photo_604": "https://sun9-24.userapi.com/impg/nDPB5TjqcfBuUqf8R-YyTuT-kx8k0l1d1hyzaA/o1svbuovYxU.jpg?size=604x453&quality=96&sign=ad1b17a822192d887c3d67b41a6a1f11&c_uniq_tag=M5YhvuP9TOHqTzsz3jwZ0-6KWbrHBjN-7OBMQf_L6Do&type=album",
+                            "photo_75": "https://sun9-24.userapi.com/impg/nDPB5TjqcfBuUqf8R-YyTuT-kx8k0l1d1hyzaA/o1svbuovYxU.jpg?size=75x56&quality=96&sign=4bb3ff5a250a8493aa8b785606b7e00c&c_uniq_tag=P7FiLCaPdVdo0fVzwhALkF0-q4MNsmsQBFKAYU2IOXo&type=album",
+                            "photo_807": "https://sun9-24.userapi.com/impg/nDPB5TjqcfBuUqf8R-YyTuT-kx8k0l1d1hyzaA/o1svbuovYxU.jpg?size=807x605&quality=96&sign=78c777396fb08bae91c5f2f446d3715d&c_uniq_tag=qhVTZABG_rg2E2969Oft97lEgYgDt0xzBsew0hx__vg&type=album",
+                            "post_id": 60,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 1024
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 2,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "C2Csi0AQraVydlNdxvtOo_VJnNQH"
+            },
+            {
+                "id": 59,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1630945920,
+                "postponed_id": 45,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1630938920,
+                            "id": 457239046,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "e13b6fbdb54b80b1e2",
+                            "height": 1000,
+                            "photo_1280": "https://sun9-5.userapi.com/impg/3f8NbC1bOeURzliCB4L_bOb6-UwxFx0sm0NLFA/M2jYP2s4HPg.jpg?size=800x1000&quality=96&sign=f71144f05119c2f86b57a3fa1c59a112&c_uniq_tag=_KQEVwFBTS-drvq05GwQPa21RGSVg1LSVATGjMsMb6c&type=album",
+                            "photo_130": "https://sun9-5.userapi.com/impg/3f8NbC1bOeURzliCB4L_bOb6-UwxFx0sm0NLFA/M2jYP2s4HPg.jpg?size=104x130&quality=96&sign=a7c47b7a36b9d7808f484018203bf9b8&c_uniq_tag=W-dzKLEGeQKBFWS9aLtr46plmmv9H8DZ1Vq6WFollDY&type=album",
+                            "photo_604": "https://sun9-5.userapi.com/impg/3f8NbC1bOeURzliCB4L_bOb6-UwxFx0sm0NLFA/M2jYP2s4HPg.jpg?size=483x604&quality=96&sign=9b7151b64047b54ccb4b346b91758e0e&c_uniq_tag=GBpvuraBTXVb3XJae0V0e9WpLmuLBnyo9uaPp3DUvpw&type=album",
+                            "photo_75": "https://sun9-5.userapi.com/impg/3f8NbC1bOeURzliCB4L_bOb6-UwxFx0sm0NLFA/M2jYP2s4HPg.jpg?size=60x75&quality=96&sign=307cb493bf53eb3dcbab4634ec45c0af&c_uniq_tag=iEF295NyHJuX-VqBfFUoXGj6UbiYid5RotZYIdKO9rE&type=album",
+                            "photo_807": "https://sun9-5.userapi.com/impg/3f8NbC1bOeURzliCB4L_bOb6-UwxFx0sm0NLFA/M2jYP2s4HPg.jpg?size=646x807&quality=96&sign=e198beb9ed59d55c38a2fbda69d48dcf&c_uniq_tag=yZhKfoVEbrCG6jxmWqe2kE18ovJzSjUsxhUqdH67neA&type=album",
+                            "post_id": 59,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 800
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "4GS8yRO18Z5lb_gRAKNftJgMEA1u"
+            },
+            {
+                "id": 50,
+                "from_id": 333482474,
+                "owner_id": -205773876,
+                "date": 1630939063,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "Я делаю бота",
+                "can_delete": 1,
+                "post_source": {
+                    "type": "api",
+                    "platform": "android"
+                },
+                "comments": {
+                    "count": 7,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 2,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "8LGUU88glambI2TyWWKGToWNW_7M"
+            },
+            {
+                "id": 49,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1630939026,
+                "postponed_id": 44,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1630938910,
+                            "id": 457239045,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "8406e29be666a8374a",
+                            "height": 505,
+                            "photo_1280": "https://sun9-68.userapi.com/impg/65ezoFs149EIzD4BEnMXaLM8KYvxcSsXf2J49w/a1NdcRqvBck.jpg?size=900x505&quality=96&sign=fad863e4bd699f458ae036e8e7c8c4f3&c_uniq_tag=0nEvy5ZUacEWPHJsjcQicf8FeR9H88wHllyoi2WkLYQ&type=album",
+                            "photo_130": "https://sun9-68.userapi.com/impg/65ezoFs149EIzD4BEnMXaLM8KYvxcSsXf2J49w/a1NdcRqvBck.jpg?size=130x73&quality=96&sign=6cf1595836387cec8fb46cd81580bf11&c_uniq_tag=11txRD0krbmTjHiW-F7Wr7C0FGkAT6xKGTrIqdGceTQ&type=album",
+                            "photo_604": "https://sun9-68.userapi.com/impg/65ezoFs149EIzD4BEnMXaLM8KYvxcSsXf2J49w/a1NdcRqvBck.jpg?size=604x339&quality=96&sign=971df17236108b5ddd8bf52d7e7f5b50&c_uniq_tag=b53oatlj75DtDzVCbfUnPizo2ZkIeIV1QeUnitpzBqI&type=album",
+                            "photo_75": "https://sun9-68.userapi.com/impg/65ezoFs149EIzD4BEnMXaLM8KYvxcSsXf2J49w/a1NdcRqvBck.jpg?size=75x42&quality=96&sign=16e6c56d3145eaee7d9fdbd2dc99d8d3&c_uniq_tag=_civN4vV9_PzPhlp5vPF8LhaeIjxvOjGGGssoOW5Qsg&type=album",
+                            "photo_807": "https://sun9-68.userapi.com/impg/65ezoFs149EIzD4BEnMXaLM8KYvxcSsXf2J49w/a1NdcRqvBck.jpg?size=807x453&quality=96&sign=9be1f75760c65bf71c8b4af41d960a0e&c_uniq_tag=PeSnf6Guu7-EfhINhtIt3mm6qhVmNWJBy-CpaalBBto&type=album",
+                            "text": "",
+                            "user_id": 100,
+                            "width": 900
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "0ffLRQGahr1U3S4A3B1KQ5FQbWOG"
+            },
+            {
+                "id": 48,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1630938939,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1630938939,
+                            "id": 457239049,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "1d5855b3eef6b14677",
+                            "height": 773,
+                            "photo_1280": "https://sun9-62.userapi.com/impg/NdzaWxXHyUACDHObPUMBiJXAYw5cegaxm05qHg/9Xc-VXYNAAM.jpg?size=1030x773&quality=96&sign=d6db19a7407937ebae58219d116b451b&c_uniq_tag=Y9qAlHBsbDhGtHAi1oA36ltiAZ9SpYIQ8ty8Ikll-8o&type=album",
+                            "photo_130": "https://sun9-62.userapi.com/impg/NdzaWxXHyUACDHObPUMBiJXAYw5cegaxm05qHg/9Xc-VXYNAAM.jpg?size=130x98&quality=96&sign=2fde59de9b3c5980fe3c3ac930ce4b56&c_uniq_tag=27BWsmsWe7hpLS5GiMUNyBVIWSjEWRb3Msgf4PLWaJA&type=album",
+                            "photo_604": "https://sun9-62.userapi.com/impg/NdzaWxXHyUACDHObPUMBiJXAYw5cegaxm05qHg/9Xc-VXYNAAM.jpg?size=604x453&quality=96&sign=237c2a7b4977f3b3a5c96c812ece95ec&c_uniq_tag=PVPJVUB8MCCQHmjwchaVtDXNak5sEDWQMagbiQpY-J4&type=album",
+                            "photo_75": "https://sun9-62.userapi.com/impg/NdzaWxXHyUACDHObPUMBiJXAYw5cegaxm05qHg/9Xc-VXYNAAM.jpg?size=75x56&quality=96&sign=dd1545d9738ab0c202caf79ca61b0f95&c_uniq_tag=Y_4wplFB2dnZTTTVSopnCRfRQn0_5yfGPT_w4R850nI&type=album",
+                            "photo_807": "https://sun9-62.userapi.com/impg/NdzaWxXHyUACDHObPUMBiJXAYw5cegaxm05qHg/9Xc-VXYNAAM.jpg?size=807x606&quality=96&sign=fde135a4bcdc7b83fadbf5218eba444d&c_uniq_tag=6gx-7xg-cIFzRu-xZGQbJtXrJtivrkIO8szkXDa-4zI&type=album",
+                            "post_id": 48,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 1030
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 2,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "vk33QuosXJamjz0assyjVVNqWLL_"
+            },
+            {
+                "id": 43,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1630934871,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "for post in posts: \n \n # функция для сохранения изображений \n def download_img(url, post_id, group_name): \n res = requests.get(url) \n \n # создаем папку group_name/files \n if not os.path.exists(f\"{group_name}/files\"): \n os.mkdir(f\"{group_name}/files\") \n \n with open(f\"{group_name}/files/{post_id}.jpg\", \"wb\") as img_file: \n img_file.write(res.content) \n \n # функция для сохранения видео \n def download_video(url, post_id, group_name): \n # создаем папку group_name/files \n if not os.path.exists(f\"{group_name}/video_files\"): \n os.mkdir(f\"{group_name}/video_files\") \n \n try: \n ydl_opts = {\"outtmpl\": f\"{group_name}/video_files/{post_id}\"} \n with youtube_dl.YoutubeDL(ydl_opts) as ydl: \n video_info = ydl.extract_info(url, download=False) \n video_duration = video_info[\"duration\"] \n if video_duration > 300: \n print(\"Видео слишком долгое\") \n else: \n print(f\"Видео длится {video_duration} секунд. Сохраняем видео...\") \n ydl.download([url]) \n except Exception: \n print(\"Не удалось скачать видео...\") \n \n post_id = post[\"id\"] \n print(f\"Отправляем пост с ID {post_id}\") \n \n try: \n if \"attachments\" in post: \n post = post[\"attachments\"] \n \n photo_quality = [ \n \"photo_2560\", \n \"photo_1280\", \n \"photo_807\", \n \"photo_604\", \n \"photo_130\", \n \"photo_75\" \n ] \n \n # проверка на 1 или несколько фото/видео в посте \n if len(post) == 1: \n \n # забираем фото \n if post[0][\"type\"] == \"photo\": \n \n for pq in photo_quality: \n if pq in post[0][\"photo\"]: \n post_photo = post[0][\"photo\"][pq] \n print(f\"Фото с расширением {pq}\") \n print(post_photo) \n download_img(post_photo, post_id, group_name) \n break \n # забираем видео \n elif post[0][\"type\"] == \"video\": \n print(\"Видео пост\") \n \n # формируем данные для составления запроса на получение ссылки на видео \n video_access_key = post[0][\"video\"][\"access_key\"] \n video_post_id = post[0][\"video\"][\"id\"] \n video_owner_id = post[0][\"video\"][\"owner_id\"] \n \n video_get_url = f\"https://api.vk.com/method/video.get?videos={video_owner_id}_{video_post_id}_{video_access_key}&access_token={token}&v=5.52\" \n req = requests.get(video_get_url) \n res = req.json() \n video_url = res[\"response\"][\"items\"][0][\"player\"] \n print(video_url) \n download_video(video_url, post_id, group_name) \n else: \n print(\"Либо линк, либо аудио, либо репост...\") \n else: \n photo_post_count = 0 \n for post_item_photo in post: \n if post_item_photo[\"type\"] == \"photo\": \n for pq in photo_quality: \n if pq in post_item_photo[\"photo\"]: \n post_photo = post_item_photo[\"photo\"][pq] \n print(f\"Фото с расширением {pq}\") \n print(post_photo) \n post_id_counter = str(post_id) + f\"_{photo_post_count}\" \n download_img(post_photo, post_id_counter, group_name) \n photo_post_count += 1 \n break \n # забираем видео \n elif post_item_photo[\"type\"] == \"video\": \n print(\"Видео пост\") \n \n # формируем данные для составления запроса на получение ссылки на видео \n video_access_key = post_item_photo[\"video\"][\"access_key\"] \n video_post_id = post_item_photo[\"video\"][\"id\"] \n video_owner_id = post_item_photo[\"video\"][\"owner_id\"] \n \n video_get_url = f\"https://api.vk.com/method/video.get?videos={video_owner_id}_{video_post_id}_{video_access_key}&access_token={token}&v=5.52\" \n req = requests.get(video_get_url) \n res = req.json() \n video_url = res[\"response\"][\"items\"][0][\"player\"] \n print(video_url) \n post_id_counter = str(post_id) + f\"_{photo_post_count}\" \n download_video(video_url, post_id_counter, group_name) \n photo_post_count += 1 \n else: \n print(\"Либо линк, либо аудио, либо репост...\") \n \n except Exception: \n print(f\"Что-то пошло не так с постом ID {post_id}!\")",
+                "can_delete": 1,
+                "can_pin": 1,
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 7,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 1,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "wBPMopBr-KTrb5yI2IDk7cSuIS7Q"
+            },
+            {
+                "id": 42,
+                "from_id": -205773876,
+                "owner_id": -205773876,
+                "date": 1630934658,
+                "marked_as_ads": 0,
+                "post_type": "post",
+                "text": "",
+                "can_delete": 1,
+                "can_pin": 1,
+                "attachments": [
+                    {
+                        "type": "photo",
+                        "photo": {
+                            "album_id": -7,
+                            "date": 1630934658,
+                            "id": 457239041,
+                            "owner_id": -205773876,
+                            "has_tags": false,
+                            "access_key": "cd744ebab17e76ec0b",
+                            "height": 756,
+                            "photo_130": "https://sun9-33.userapi.com/impg/sPEmyp2hgWx595ZcuZbRGo44JkJZHBby0ddhGA/lVTurVRBSG0.jpg?size=114x130&quality=96&sign=5fc2947ba285ce12761c655b9b76341e&c_uniq_tag=02MhWp_m0ecDob4hKExLDmZoN7BpFYFWtS5056of7dw&type=album",
+                            "photo_604": "https://sun9-33.userapi.com/impg/sPEmyp2hgWx595ZcuZbRGo44JkJZHBby0ddhGA/lVTurVRBSG0.jpg?size=528x604&quality=96&sign=5b5f658c0c694c810e28ea2ffa32b289&c_uniq_tag=eyGQBr6-tyHBdGx_fLhAPbA5R_CqdJ43UTKhXcbT4pU&type=album",
+                            "photo_75": "https://sun9-33.userapi.com/impg/sPEmyp2hgWx595ZcuZbRGo44JkJZHBby0ddhGA/lVTurVRBSG0.jpg?size=66x75&quality=96&sign=9dd20ed6482df20cd37ad80afaf6a2e8&c_uniq_tag=JnipXdp2ROKYqcjlZbMQdT5F-sFYqBbGsxEIMoel3tY&type=album",
+                            "photo_807": "https://sun9-33.userapi.com/impg/sPEmyp2hgWx595ZcuZbRGo44JkJZHBby0ddhGA/lVTurVRBSG0.jpg?size=661x756&quality=96&sign=e485d22f0431644462eee734d28fbec9&c_uniq_tag=vMQtsMapKNRHZhFkv-wwc3kY0zaHboVJrCuBSTbJtX0&type=album",
+                            "post_id": 42,
+                            "text": "",
+                            "user_id": 100,
+                            "width": 661
+                        }
+                    }
+                ],
+                "post_source": {
+                    "type": "vk"
+                },
+                "comments": {
+                    "count": 0,
+                    "can_post": 1
+                },
+                "likes": {
+                    "count": 0,
+                    "user_likes": 0,
+                    "can_like": 1,
+                    "can_publish": 0
+                },
+                "reposts": {
+                    "count": 0,
+                    "wall_count": 0,
+                    "mail_count": 0,
+                    "user_reposted": 0
+                },
+                "hash": "8ByWdoCZPMBRZcFmyMP2VktWlNlr"
+            }
+        ]
+    }
+}

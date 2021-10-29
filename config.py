@@ -1,0 +1,3 @@
+TOKEN = "3a4849eded6a8197f2c8f273c264ef12e0025581f24c54b6579068a0993fc1069dc10e5f5d372ba11c874" # супер закрытая группа
+# TOKEN = "21ebee404e5f088c2e4606a9ebb99f13faaecbb1e13f55d2e5b021a79b1d95a643b9804cf8c15e2887569" #"отправка"
+token = "b83f6ac6e3efda45e3bb4ac68ca91074be1bed8480edba29be7641be6d86b8fd1abc472b9bcdccef5e88a" # вытаскивает файлы
